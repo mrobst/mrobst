@@ -32,9 +32,11 @@ Here are some ideas to get you started:
 
 [![Marcus github stats](https://github-readme-stats.vercel.app/api?username=mrobst&count_private=true&show_icons=true&theme=solarized-dark)](https://github.com/mrobst/github-readme-stats)
 
-
+<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrobst&langs_count=8)](https://github.com/mrobst/github-readme-stats)
+-->
 
+<br />
 ### Technology Stack:
 <br />
 
