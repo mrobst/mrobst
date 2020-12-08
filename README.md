@@ -1,7 +1,9 @@
 ### Hi there I'm Marcus 👋 <div align = 'right'>![](https://komarev.com/ghpvc/?username=mrobst&color=green&style=plastic)</div>
 
 <br />
+
 ## I'm an SAP Retail Architect, Full Stack Developer, Linux Sysadmin and Electronics Experimenter! 
+
 <br />
 <br />
 
@@ -24,7 +26,6 @@ Here are some ideas to get you started:
 
 <br />
 <br />
-<br />
 - ⚡ Fun facts: ...
 <br />
 <br />
@@ -37,7 +38,9 @@ Here are some ideas to get you started:
 -->
 
 <br />
+
 ### Technology Stack:
+
 <br />
 
 [<img align="left" alt="SAP" src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" />][blog] 
