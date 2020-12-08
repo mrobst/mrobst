@@ -24,14 +24,19 @@ Here are some ideas to get you started:
 
 <br />
 <br />
-<!-- - ⚡ Fun fact: ... -->
+<br />
+- ⚡ Fun facts: ...
 <br />
 <br />
 
 
-[![Marcus github stats](https://github-readme-stats.vercel.app/api?username=mrobst)](https://github.com/anuraghazra/github-readme-stats)
+[![Marcus github stats](https://github-readme-stats.vercel.app/api?username=mrobst&count_private=true&show_icons=true&theme=solarized-dark)](https://github.com/mrobst/github-readme-stats)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrobst&langs_count=8)](https://github.com/mrobst/github-readme-stats)
 
 ### Technology Stack:
+<br />
 
 [<img align="left" alt="SAP" src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" />][blog] 
 <br />
@@ -42,7 +47,7 @@ Here are some ideas to get you started:
 [<img align="left" alt="Postgresql" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />][blog]
 <br />
 <br />
-[<img align="left" alt="GCP" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlecloud.svg" />][blog]
+[<img align="left" alt="GCP" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlecloud.svg" />][blog] GCP
 <br />
 <br />
 [<img align="left" alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />][blog]
