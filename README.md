@@ -2,7 +2,9 @@
 
 <br />
 
-## I'm an SAP Retail Architect, Full Stack Developer, Linux Sysadmin and Electronics Experimenter! 
+## I'm a Full Stack Developer, Linux Sysadmin and Electronics Experimenter!
+<br />
+In my previous career I was an SAP Consultant and Architect in the Retail sector.
 
 <br />
 <br />
